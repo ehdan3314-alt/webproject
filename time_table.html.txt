@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>강의 시간표</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>📚 강의 시간표</h1>
+</header>
+
+<section>
+
+<table>
+
+<tr>
+<th>시간</th>
+<th>월</th>
+<th>화</th>
+<th>수</th>
+<th>목</th>
+<th>금</th>
+</tr>
+
+<tr>
+<td>09:30 ~ 12:20</td>
+<td>컴퓨터활용</td>
+<td></td>
+<td></td>
+<td>웹페이지기초</td>
+<td rowspan="5">공강</td>
+</tr>
+
+<tr>
+<td>10:30 ~ 13:20</td>
+<td></td>
+<td>AI컴퓨팅</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>11:30 ~ 14:20</td>
+<td></td>
+<td></td>
+<td>컴퓨터개론</td>
+<td></td>
+</tr>
+
+<tr>
+<td>12:30 ~ 15:20</td>
+<td>컴퓨팅논리</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+</table>
+
+<br>
+
+<a href="main.html">🏠 홈으로</a>
+
+</section>
+
+</body>
+</html>

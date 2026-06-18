@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>로그인</title>
+</head>
+
+<body>
+
+<h2>로그인</h2>
+
+아이디<br>
+<input type="text"><br><br>
+
+비밀번호<br>
+<input type="password"><br><br>
+
+<button onclick="alert('로그인 성공!')">
+확인
+</button>
+
+</body>
+</html>

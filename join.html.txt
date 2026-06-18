@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>회원가입</title>
+</head>
+
+<body>
+
+<h2>회원가입</h2>
+
+이름<br>
+<input type="text"><br><br>
+
+아이디<br>
+<input type="text"><br><br>
+
+비밀번호<br>
+<input type="password"><br><br>
+
+<button onclick="alert('회원가입을 환영합니다!')">
+확인
+</button>
+
+</body>
+</html>

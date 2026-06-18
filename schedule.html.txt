@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>학사일정</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>2026년 6월 학사일정</h1>
+</header>
+
+<section>
+
+<table>
+
+<tr>
+<th>기간</th>
+<th>일정</th>
+</tr>
+
+<tr>
+<td>6월 1일 ~ 6월 10일</td>
+<td>수업</td>
+</tr>
+
+<tr>
+<td>6월 11일</td>
+<td>개교기념일</td>
+</tr>
+
+<tr>
+<td>6월 12일 ~ 6월 15일</td>
+<td>수업</td>
+</tr>
+
+<tr>
+<td>6월 16일 ~ 6월 22일</td>
+<td>기말고사</td>
+</tr>
+
+<tr>
+<td>6월 23일부터</td>
+<td>여름방학</td>
+</tr>
+
+</table>
+
+<br>
+
+<a href="main.html">홈으로</a>
+
+</section>
+
+</body>
+</html>

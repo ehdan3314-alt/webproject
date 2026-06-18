@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>SunWoo's Campus</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+<a href="main.html">
+<img src="logo.png" width="100">
+</a>
+
+<h1>SunWoo's Campus</h1>
+
+<nav>
+<a href="schedule.html">학사일정</a>
+<a href="myfun.html">나의 관심사</a>
+<a href="gallery.html">갤러리</a>
+<a href="time_table.html">시간표</a>
+<a href="login.html" target="_blank">로그인</a>
+<a href="join.html" target="_blank">회원가입</a>
+</nav>
+
+</header>
+
+<section>
+
+<h2>환영합니다!</h2>
+
+<p>
+웹페이지 기초 과제를 위해 제작한 개인 홈페이지입니다.
+</p>
+
+</section>
+
+</body>
+</html>

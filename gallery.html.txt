@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>갤러리</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>갤러리</h1>
+</header>
+
+<section>
+
+<img src="soccer.jpg" width="250">
+<p>축구</p>
+
+<img src="fashion.jpg" width="250">
+<p>패션</p>
+
+<img src="travel.jpg" width="250">
+<p>여행</p>
+
+<br><br>
+
+<a href="main.html">홈으로</a>
+
+</section>
+
+</body>
+</html>
